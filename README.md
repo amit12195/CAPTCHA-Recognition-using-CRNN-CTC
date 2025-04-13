@@ -31,3 +31,4 @@ This repository contains a complete pipeline for recognizing numeric CAPTCHA str
 
 - [clovaai/deep-text-recognition-benchmark] – Used for CRNN architecture as base model for finetuning.
 - [clovaai/CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) – Used for text detection with the CRAFT model.
+- https://github.com/meijieru/crnn.pytorch   - 
