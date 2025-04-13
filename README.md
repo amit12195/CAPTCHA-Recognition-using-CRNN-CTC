@@ -26,3 +26,8 @@ This repository contains a complete pipeline for recognizing numeric CAPTCHA str
             At the end of the user document, you’ll find a Google Drive link containing the pre-trained text detection and recognition models.
             After downloading, place the models in the ai_models directory.
 
+
+## References
+
+- [clovaai/deep-text-recognition-benchmark] – Used for CRNN architecture as base model for finetuning.
+- [clovaai/CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) – Used for text detection with the CRAFT model.
