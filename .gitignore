@@ -1,5 +1,8 @@
-ai_models/best_accuracy.pth
-ai_models/craft_mlt_25k.pth
+# Ignore model weights
 ai_models/*.pth
+# allow .gitkeep to preserve folder
+!ai_models/.gitkeep
+!crnn_training/base_model/.gitkeep
+!crnn_training/saved_models/.gitkeep
 
 
