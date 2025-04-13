@@ -1,0 +1,5 @@
+ai_models/best_accuracy.pth
+ai_models/craft_mlt_25k.pth
+ai_models/*.pth
+
+

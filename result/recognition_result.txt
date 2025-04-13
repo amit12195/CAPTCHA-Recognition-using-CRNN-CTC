@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+result/crops\image_validation_94_box_1.jpg	053660                   	0.9693
+result/crops\image_validation_939_box_1.jpg	479643                   	0.4904
+result/crops\image_validation_941_box_1.jpg	480149                   	0.4348
+result/crops\image_validation_943_box_1.jpg	481096                   	0.9263
+result/crops\image_validation_944_box_1.jpg	481867                   	0.8861
+result/crops\image_validation_945_box_1.jpg	482198                   	0.9726
+result/crops\image_validation_949_box_1.jpg	483540                   	0.6824
+result/crops\image_validation_988_box_1.jpg	501703                   	0.9941
+result/crops\image_validation_991_box_1.jpg	502942                   	0.9896
+result/crops\image_validation_992_box_1.jpg	503914                   	0.7862
+result/crops\image_validation_998_box_1.jpg	506005                   	0.9739
+result/crops\image_validation_999_box_1.jpg	506764                   	0.9729
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+result/crops\image_validation_94_box_1.jpg	053660                   	0.9693
+result/crops\image_validation_939_box_1.jpg	479643                   	0.4904
+result/crops\image_validation_941_box_1.jpg	480149                   	0.4348
+result/crops\image_validation_943_box_1.jpg	481096                   	0.9263
+result/crops\image_validation_944_box_1.jpg	481867                   	0.8861
+result/crops\image_validation_945_box_1.jpg	482198                   	0.9726
+result/crops\image_validation_949_box_1.jpg	483540                   	0.6824
+result/crops\image_validation_988_box_1.jpg	501703                   	0.9941
+result/crops\image_validation_991_box_1.jpg	502942                   	0.9896
+result/crops\image_validation_992_box_1.jpg	503914                   	0.7862
+result/crops\image_validation_998_box_1.jpg	506005                   	0.9739
+result/crops\image_validation_999_box_1.jpg	506764                   	0.9729
