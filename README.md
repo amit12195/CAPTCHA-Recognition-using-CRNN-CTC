@@ -14,11 +14,11 @@ This repository contains a complete pipeline for recognizing numeric CAPTCHA str
 
       📄 Detailed step-by-step instructions are available in the user documentation.
 
-🔹 Step 3: Inference
+### Step 3: Inference
        You can choose from the following options for performing inference:
-             Option 1: Use the provided Jupyter Notebook for both text detection and recognition.
+             **Option 1:** Use the provided Jupyter Notebook for both text detection and recognition.
 
-             Option 2: Run the following Python scripts separately:
+             **Option 2:** Run the following Python scripts separately:
                   python text_detection.py
                   python text_recognition_v1.py
 
